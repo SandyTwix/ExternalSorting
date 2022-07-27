@@ -1,0 +1,22 @@
+C:\Users\Admin\Desktop\ВГУ\2 Курс\Delphi\4 семестр\Lab #5 External Sorting\External Sorting\External Sorting\bin\Debug\External Sorting.exe.config
+C:\Users\Admin\Desktop\ВГУ\2 Курс\Delphi\4 семестр\Lab #5 External Sorting\External Sorting\External Sorting\bin\Debug\External Sorting.exe
+C:\Users\Admin\Desktop\ВГУ\2 Курс\Delphi\4 семестр\Lab #5 External Sorting\External Sorting\External Sorting\bin\Debug\External Sorting.pdb
+C:\Users\Admin\Desktop\ВГУ\2 Курс\Delphi\4 семестр\Lab #5 External Sorting\External Sorting\External Sorting\obj\Debug\External Sorting.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ВГУ\2 Курс\Delphi\4 семестр\Lab #5 External Sorting\External Sorting\External Sorting\obj\Debug\External_Sorting.Form1.resources
+C:\Users\Admin\Desktop\ВГУ\2 Курс\Delphi\4 семестр\Lab #5 External Sorting\External Sorting\External Sorting\obj\Debug\External_Sorting.Form2.resources
+C:\Users\Admin\Desktop\ВГУ\2 Курс\Delphi\4 семестр\Lab #5 External Sorting\External Sorting\External Sorting\obj\Debug\External_Sorting.Properties.Resources.resources
+C:\Users\Admin\Desktop\ВГУ\2 Курс\Delphi\4 семестр\Lab #5 External Sorting\External Sorting\External Sorting\obj\Debug\External Sorting.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ВГУ\2 Курс\Delphi\4 семестр\Lab #5 External Sorting\External Sorting\External Sorting\obj\Debug\External Sorting.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ВГУ\2 Курс\Delphi\4 семестр\Lab #5 External Sorting\External Sorting\External Sorting\obj\Debug\External Sorting.exe
+C:\Users\Admin\Desktop\ВГУ\2 Курс\Delphi\4 семестр\Lab #5 External Sorting\External Sorting\External Sorting\obj\Debug\External Sorting.pdb
+C:\Users\SandyTwix\Desktop\External-Sorting-master\External Sorting\External Sorting\bin\Debug\External Sorting.exe.config
+C:\Users\SandyTwix\Desktop\External-Sorting-master\External Sorting\External Sorting\bin\Debug\External Sorting.exe
+C:\Users\SandyTwix\Desktop\External-Sorting-master\External Sorting\External Sorting\bin\Debug\External Sorting.pdb
+C:\Users\SandyTwix\Desktop\External-Sorting-master\External Sorting\External Sorting\obj\Debug\External Sorting.csprojAssemblyReference.cache
+C:\Users\SandyTwix\Desktop\External-Sorting-master\External Sorting\External Sorting\obj\Debug\External_Sorting.Form1.resources
+C:\Users\SandyTwix\Desktop\External-Sorting-master\External Sorting\External Sorting\obj\Debug\External_Sorting.Form2.resources
+C:\Users\SandyTwix\Desktop\External-Sorting-master\External Sorting\External Sorting\obj\Debug\External_Sorting.Properties.Resources.resources
+C:\Users\SandyTwix\Desktop\External-Sorting-master\External Sorting\External Sorting\obj\Debug\External Sorting.csproj.GenerateResource.cache
+C:\Users\SandyTwix\Desktop\External-Sorting-master\External Sorting\External Sorting\obj\Debug\External Sorting.csproj.CoreCompileInputs.cache
+C:\Users\SandyTwix\Desktop\External-Sorting-master\External Sorting\External Sorting\obj\Debug\External Sorting.exe
+C:\Users\SandyTwix\Desktop\External-Sorting-master\External Sorting\External Sorting\obj\Debug\External Sorting.pdb
